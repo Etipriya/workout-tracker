@@ -20,7 +20,7 @@ const getWorkouts = async (req, res) => {
 
 module.exports = {
   getWorkouts,
-  addExercise,
-  createWorkout,
-  getWorkoutsInRange,
+  //addExercise,
+  // createWorkout,
+  // getWorkoutsInRange,
 };
